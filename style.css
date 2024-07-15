@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Consolas';
+    src: url('/consolas1.woff');
+}
+
+.h-html {
+
+    border: solid 10px;
+    border-color: #ab91f3;
+ 
+}
+
+.home {
+    font-size: 10px;
+}
+
+.title-c {
+    height: 50px;
+}
+
+.watching {
+    height: 30px;
+}
+
+.reading {
+
+    height: 30px;
+
+}
+
+li::marker {
+    content: '~ ';
+}
+
+.k-body {
+    text-align: left;
+    margin-left: 25px;
+}
+
+ .c-body {
+    text-align: left;
+    margin-left: 25px;
+}
+
+    
+
+
+
+html, body {
+    width: 650px;
+    background-color: #000000;
+    color: #ab91f3;
+    margin: auto;
+    margin-top: 8vh;
+    margin-bottom: 15vh;
+    line-height: 1.2em;
+    text-align: center;
+    /* font-family: 'Consolas'; */
+    font-family: 'Times New Roman', Times, serif;
+
+} 
+
+
+.title {
+
+    height: 100px;
+}
+
+.invite {
+
+    height: 170px;
+}
+
+
+
+
+
